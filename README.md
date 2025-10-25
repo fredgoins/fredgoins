@@ -7,7 +7,6 @@
 
 **Languages:** C++ | JavaScript | HTML | CSS  
 **Tools & Frameworks:** React | Linux  
-**Other Interests:** Networking | Digital Forensics | System Administration  
 
 ---
 > “Security is not a product, but a process.” – Bruce Schneier
