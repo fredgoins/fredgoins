@@ -1,4 +1,6 @@
-🎓 **Computer Science Student** | 🔐 **Cybersecurity Enthusiast**
+<div align="center">
+🎓 **Computer Science Student** & 🔐 **Cybersecurity Enthusiast**
+</div>
 ---
 ## 🧠 About Me
 - 🧩 Passionate about technology, security, and creative problem-solving  
